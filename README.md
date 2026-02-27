@@ -16,7 +16,7 @@ I'm a Computer Science student learning web development and building application
 ## Featured Projects
 
 ### Student Budget and Debt Tracker
-A budgeting application that displays income, expenses, and remaining budget.
+A Node.js and Express budgeting application that calculates and displays income, expenses, and remaining budget. The application is deployed online and managed using GitHub.
 
 Tech:
 - JavaScript
